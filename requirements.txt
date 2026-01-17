@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+nhlpy
+pywinstyles
+matplotlib
+scipy
